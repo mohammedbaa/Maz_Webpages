@@ -1,4 +1,4 @@
-# Maz_Webpages
+# Maz_Website
 Many people suffer while trying to find a house to buy or rent, or even while trying to sell/rent their houses. MAZ team is willing to end customers and owners suffering by offering their services. MAZ website is a website for house selling and renting. Offering a lot of new features, targeting customer satisfaction. 
 
 # Project Overview
