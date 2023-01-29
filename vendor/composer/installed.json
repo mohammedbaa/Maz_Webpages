@@ -1,0 +1,60 @@
+{
+    "packages": [
+        {
+            "name": "irybalka1966/voiceinputs",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/irybalka1966/voiceinputs.git",
+                "reference": "1768d93685c3e3e792d9d5d2dd737b8c4c0dc05c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/irybalka1966/voiceinputs/zipball/1768d93685c3e3e792d9d5d2dd737b8c4c0dc05c",
+                "reference": "1768d93685c3e3e792d9d5d2dd737b8c4c0dc05c",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "5.7.17"
+            },
+            "time": "2019-09-03T19:08:29+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "irybalka1966\\voiceinputs\\": "src/",
+                    "irybalka1966\\voiceinputs\\Tests\\": "tests/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Igor Rybalka",
+                    "email": "irybalka@yahoo.com"
+                }
+            ],
+            "description": "build text and select html form inputs with filling-from-voice ability",
+            "keywords": [
+                "chrome",
+                "htmlform",
+                "php",
+                "recognition",
+                "selectinput",
+                "textinput",
+                "voice",
+                "webkitSpeechRecognition"
+            ],
+            "support": {
+                "issues": "https://github.com/irybalka1966/voiceinputs/issues",
+                "source": "https://github.com/irybalka1966/voiceinputs/tree/1.0"
+            },
+            "install-path": "../irybalka1966/voiceinputs"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
